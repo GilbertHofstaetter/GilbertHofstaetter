@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/GilbertHofstaetter/count.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gilberthofstaetter&label=Profile%20views&color=0e75b6&style=flat" alt="gilberthofstaetter" /> </p>
 
 <!--
 **GilbertHofstaetter/GilbertHofstaetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
