@@ -1,11 +1,7 @@
 
 <div align="center">
-  Hi there 👋
-</div>
-<p align=center>
   <h3 style="text-align: center">Hi there 👋</h3>
-</p>
-
+</div>
 
 <p align="center"> 
   Visitor count<br>
