@@ -3,10 +3,10 @@
   <h3 style="text-align: center">Hi there 👋</h3>
 </div>
 
-<p align="center"> 
+<!--<p align="center"> 
   Visitor count<br>
 </p>
-![](https://komarev.com/ghpvc/?username=gilberthofstaetter&style=flat-square)
+![](https://komarev.com/ghpvc/?username=gilberthofstaetter&style=flat-square)-->
 
 
 <!--
