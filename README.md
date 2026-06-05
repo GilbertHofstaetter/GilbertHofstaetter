@@ -5,7 +5,7 @@
 
 <!--<p align="center"> 
   Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?username=gilberthofstaetter&style=flat-square"  />
+  <img src="https://komarev.com/ghpvc/?username=gilberthofstaetter"  />
 </p>
 <!--![](https://komarev.com/ghpvc/?username=gilberthofstaetter&style=flat-square)-->
 
