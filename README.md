@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=gilberthofstaetter"  />
 </p>
 
-```markdown
-![](https://komarev.com/ghpvc/?username=gilberthofstaetter&style=flat-square)
-```
+
+<https://komarev.com/ghpvc/?username=gilberthofstaetter&style=flat-square>
+
 
 
 
