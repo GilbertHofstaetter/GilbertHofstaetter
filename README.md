@@ -5,8 +5,8 @@
 
 <p align="center"> 
   Visitor count<br>
-  ![](https://komarev.com/ghpvc/?username=gilberthofstaetter&style=flat-square)
 </p>
+![](https://komarev.com/ghpvc/?username=gilberthofstaetter&style=flat-square)
 
 
 <!--
