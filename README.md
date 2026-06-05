@@ -5,8 +5,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  ![](https://komarev.com/ghpvc/?username=gilberthofstaetter)
-  <!--<img src="https://profile-counter.glitch.me/GilbertHofstaetter/count.svg" />-->
+  ![](https://komarev.com/ghpvc/?username=gilberthofstaetter&style=flat-square)
 </p>
 
 
