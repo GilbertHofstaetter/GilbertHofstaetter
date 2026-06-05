@@ -4,7 +4,6 @@
 </div>
 
 <p align="center"> 
-  Visitor count<br>
   <img src="https://komarev.com/ghpvc/?username=gilberthofstaetter&style=for-the-badge"  />
 </p>
 
