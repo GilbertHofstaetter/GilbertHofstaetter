@@ -3,16 +3,10 @@
   <h3 style="text-align: center">Hi there 👋</h3>
 </div>
 
-<!--<p align="center"> 
+<p align="center"> 
   Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?username=gilberthofstaetter"  />
+  <img src="https://komarev.com/ghpvc/?username=gilberthofstaetter&style=for-the-badge"  />
 </p>
-
-
-<https://komarev.com/ghpvc/?username=gilberthofstaetter&style=flat-square>
-
-
-
 
 <!--
 **GilbertHofstaetter/GilbertHofstaetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
